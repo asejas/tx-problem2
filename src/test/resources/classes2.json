@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Lambda Calculus",
+    "latitude": 35.06914,
+    "longitude": -118.442689
+  },
+  {
+    "name": "Introduction to Functional Programming with Haskell",
+    "latitude": 35.069585,
+    "longitude": -118.441878
+  },
+  {
+    "name": "Advanced Functional Programming",
+    "latitude": 35.069742,
+    "longitude": -118.441312
+  },
+  {
+    "name": "Compiler Design",
+    "latitude": 35.070223,
+    "longitude": -118.440193
+  }
+]

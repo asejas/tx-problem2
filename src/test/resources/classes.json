@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Principles of computational geo-location analysis",
+    "latitude": 34.06914,
+    "longitude": -118.442689,
+    "classroom": "engineering_classroom"
+  },
+  {
+    "name": "Sedimentary Petrology",
+    "latitude": 34.069585,
+    "longitude": -118.441878,
+    "classroom": "geology_classroom"
+  },
+  {
+    "name": "Introductory Psychobiology",
+    "latitude": 34.069742,
+    "longitude": -118.441312,
+    "classroom": "psychology_classroom"
+  },
+  {
+    "name": "Art of Listening",
+    "latitude": 34.070223,
+    "longitude": -118.440193,
+    "classroom": "music_classroom"
+  },
+  {
+    "name": "Art Hitory",
+    "latitude": 34.071528,
+    "longitude": -118.441211,
+    "classroom": "humanities_classroom"
+  }
+]
